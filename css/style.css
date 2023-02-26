@@ -1,0 +1,42 @@
+.container{
+	overflow: hidden;
+}
+.logo{
+	float: left;
+	margin-left: 25px;
+}
+.menu{
+	float: right;
+	margin-right: 25px;
+}
+a{
+	text-decoration: none;
+	font-family: sans-serif;
+	font-weight: normal;
+	color: black;
+}
+li{
+	list-style: none;
+	float: left;
+	margin-right: 15px;
+}
+hr{
+	color: #eef0f3;
+}
+.font{
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	margin: 0px;
+}
+.nb{	
+	color: #0f2656;	
+}
+.blue{	
+	color: #008aff;	
+}
+p{
+	font-weight: 100;
+	font-size: 16px;
+	text-align: center;
+}
